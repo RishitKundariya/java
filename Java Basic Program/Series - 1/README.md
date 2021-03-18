@@ -1,6 +1,7 @@
 # Series 1
 
 <h1>Questions are below.</h1>
+<b>
 <ul>
 	<li>
 		1. Find area of circle.
@@ -28,5 +29,5 @@ operator.
 		8. Check whether given number is prime or not.
 	</li>
 </ul>
-
+</b>
 thank you !!!
