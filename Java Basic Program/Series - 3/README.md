@@ -1,5 +1,6 @@
 # Series - 3
 <h1>Questions are below.</h1>
+<b>
 <ul>
 	<li>1. Write a program to calculate Permutation and Combination
 of 2 numbers</li>
@@ -10,5 +11,5 @@ of 2 numbers</li>
 	<li>5. Write a program to implement Bubble Sort Algorithm.</li>
 </ul>
 
-
+</b>
 thank you !!!
