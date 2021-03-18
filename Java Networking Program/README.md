@@ -8,6 +8,7 @@
          Note: When user type “bye/good night/see you” chat should be stopped.
 	</li>
 </ul>
-</b>
+</b><br/>
 
+*Note :- First send message from Server Program. When you want to and chat send Bye,See you,Good night. <br/>
 thank you !!!
