@@ -10,5 +10,5 @@
 </ul>
 </b><br/>
 
-*Note :- First send message from Server Program. When you want to and chat send Bye,See you,Good night. <br/>
-thank you !!!
+*Note :- First send message from Server Program. When you want to end chat send Bye,See you,Good night. <br/>
+<b>thank you !!!<b>
