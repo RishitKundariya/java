@@ -28,6 +28,9 @@ operator.
 	<li>
 		8. Check whether given number is prime or not.
 	</li>
+	<li>
+		9. String is made from it's substring or not ? Example "abab" , "abcabcabc" is valid and "abba","aba" is invalid.
+	</li>
 </ul>
 </b>
 thank you !!!
