@@ -9,7 +9,7 @@ of 2 numbers</li>
 	<li>3. Write a program to implement a Binary Search Algorithm.</li>
 	<li>4. Write a program to implement Heap Sort Algorithm.</li>
 	<li>5. Write a program to implement Bubble Sort Algorithm.</li>
-	<li>6. Write a program to implement LinkList with simple add and display node operation.</li>
+	<li>6. Write a program to implement LinkList with simple add node and display List .</li>
 </ul>
 
 </b>
