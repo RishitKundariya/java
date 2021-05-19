@@ -31,6 +31,9 @@ operator.
 	<li>
 		9. String is made from it's substring or not ? Example "abab" , "abcabcabc" is valid and "abba","aba" is invalid.
 	</li>
+	<li>
+		10. String have same number of opening and closing parentheses ? Example "(){}" , "({()})" is valid and "(){","{{{)}}" is invalid.
+	</li>
 </ul>
 </b>
 thank you !!!
