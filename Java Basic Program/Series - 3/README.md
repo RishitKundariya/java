@@ -11,6 +11,7 @@ of 2 numbers</li>
 	<li>5. Write a program to implement Bubble Sort Algorithm.</li>
 	<li>6. Write a program to implement LinkList with simple add node and display List .</li>
 	<li>7. Write a program to implement Binary search tree and display tree in Pre-order,In-order,Post-order travarsal.</li>
+	<li>7. Write a program to implement Quicksort algorithm.</li>
 </ul>
 
 </b>
